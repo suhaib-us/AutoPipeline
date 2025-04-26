@@ -1,0 +1,24 @@
+# UV requirements for AutoPipeline
+
+# Core dependencies
+uv==0.1.0  # Replace with the specific UV version if needed
+
+# Common Python packages that might be useful for your project
+requests>=2.28.0
+numpy>=1.22.0
+pandas>=1.4.0
+
+# Web framework dependencies (if needed)
+# flask>=2.0.0
+# fastapi>=0.78.0
+
+# UI related dependencies
+# streamlit>=1.10.0
+# plotly>=5.8.0
+PySide6>=6.4.0
+# Development dependencies
+pytest>=7.0.0
+black>=22.3.0
+isort>=5.10.0
+flake8>=4.0.0
+
